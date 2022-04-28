@@ -77,7 +77,7 @@ Ta phải nhập đúng **tên đăng nhập** ```admin123``` và **mật khẩu
 ![Capture10](https://user-images.githubusercontent.com/82378378/165754071-9266d7a5-30b5-4962-a6df-956a126a7a2a.PNG)
 
 
-**Hiển thị lại chương trình sau khi xóa nhân viên**
+**Hiển thị lại danh sách sau khi xóa nhân viên**
 
 
 ![Capture11](https://user-images.githubusercontent.com/82378378/165754066-740f40ee-1fcd-432a-922c-6d1183477c16.PNG)
