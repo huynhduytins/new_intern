@@ -26,7 +26,7 @@ Ta phải nhập đúng **tên đăng nhập** ```admin123``` và **mật khẩu
 ![Capture1](https://user-images.githubusercontent.com/82378378/165754107-f3391b18-82d5-4179-b407-6a4f008a0c38.PNG)
 
 
-**Màn sau khi hình đăng nhập**
+**Màn hình sau khi đăng nhập**
 
 
 ![Capture2](https://user-images.githubusercontent.com/82378378/165754103-fcd76ff2-544a-4ca6-8b0a-742eea6eac26.PNG)
