@@ -1,11 +1,6 @@
 
 ##  Xây dựng giao diện phần mềm quản lý nhân viên bằng Tkinter
 
-Để chạy được ta chỉ cần clone tất cả các file về chung một thư mục và chạy file ```main.py```
-
-
-Packet cần cài đặt:
-
 - PIL (Python Imaging Library -> Dùng để chèn ảnh):  
 
         pip install Pillow
